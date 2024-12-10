@@ -1,5 +1,5 @@
 # simple_game.py
-# This program is a simple number guessing game. MS Copilot assisted in writing this code by providing suggestions and auto-completing code blocks.
+# This program is a number guessing game. MS Copilot assisted in writing this code by providing suggestions and auto-completing code blocks.
 
 import random
 
